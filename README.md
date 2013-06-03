@@ -12,8 +12,9 @@ This board will auto reset any Arduino board that has the reset pin brought out 
 
 Repository Contents
 -------------------
-**/3.3V - Hardware files for the 3.3V version
- **/5V - Hardware files for the 5V version
+
+* **/3.3V**- Hardware files for the 3.3V version
+* **/5V** - Hardware files for the 5V version
  
  Product Versions
 ----------------
