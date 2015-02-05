@@ -1,8 +1,9 @@
-FTDI_Basic_Breakout
-===================
+SparkFun FTDI Basic Breakout-5V
+===============================
 
-[![FTDI Basic Breakout](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/7/1/6/09716-_00.jpg)  
-*FTDI Basic Breakout - 5V (DEV-09716)*](https://www.sparkfun.com/products/9716)
+[![SparkFun FTDI Basic Breakout-5V](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/7/1/6/09716-_00.jpg)  
+
+*SparkFun FTDI Basic Breakout-5V(DEV-09716)*](https://www.sparkfun.com/products/9716)
 
 This is a basic breakout board for the FTDI FT232RL USB to serial IC. 
 The pinout of this board matches the FTDI cable to work with official Arduino and cloned Arduino boards. 
@@ -12,10 +13,9 @@ This board will auto reset any Arduino board that has the reset pin brought out 
 
 Repository Contents
 -------------------
+* **/Hardware** - All Eagle design files (.brd, .sch)
+* **/Production** - Test bed files and production panel files
 
-* **/3.3V**- Hardware files for the 3.3V version
-* **/5V** - Hardware files for the 5V version
- 
  Product Versions
 ----------------
 * [DEV-09716](https://www.sparkfun.com/products/9716)- 5V FTDI Basic Breakout
@@ -23,4 +23,6 @@ Repository Contents
 
 License Information
 -------------------
-The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
+The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Distributed as-is; no warranty is given.
