@@ -1,9 +1,9 @@
 SparkFun FTDI Basic Breakout-5V
 ===============================
 
-[![SparkFun FTDI Basic Breakout-5V](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/7/1/6/09716-_00.jpg)  
+![SparkFun FTDI Basic Breakout-5V](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/7/1/6/09716-_00.jpg)  
 
-*SparkFun FTDI Basic Breakout-5V(DEV-09716)*](https://www.sparkfun.com/products/9716)
+[*SparkFun FTDI Basic Breakout-5V(DEV-09716)*](https://www.sparkfun.com/products/9716)
 
 This is a basic breakout board for the FTDI FT232RL USB to serial IC. 
 The pinout of this board matches the FTDI cable to work with official Arduino and cloned Arduino boards. 
