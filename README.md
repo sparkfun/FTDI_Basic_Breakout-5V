@@ -1,7 +1,7 @@
 SparkFun FTDI Basic Breakout-5V
 ===============================
 
-![SparkFun FTDI Basic Breakout-5V](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/7/1/6/09716-_00.jpg)  
+[![SparkFun FTDI Basic Breakout-5V](https://cdn.sparkfun.com//assets/parts/3/6/2/9/09716-SparkFun_FTDI_Basic_Breakout_-_5V-01.jpg)](https://www.sparkfun.com/products/9716)
 
 [*SparkFun FTDI Basic Breakout-5V(DEV-09716)*](https://www.sparkfun.com/products/9716)
 
@@ -15,6 +15,13 @@ Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Production** - Test bed files and production panel files
+
+Documentation
+--------------
+
+* **[Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/9716_sfe_ftdi_basic_breakout_5V_ft232rl.fzpz)** - Fritzing diagrams for SparkFun products.
+* **[USB to Serial UART Boards Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-usb-to-serial-uart-boards-hookup-guide)**
+* **[How to Install FTDI Drivers](https://learn.sparkfun.com/tutorials/how-to-install-ftdi-drivers)**
 
  Product Versions
 ----------------
