@@ -20,6 +20,7 @@ Documentation
 --------------
 
 * **[Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/9716_sfe_ftdi_basic_breakout_5V_ft232rl.fzpz)** - Fritzing diagrams for SparkFun products.
+* **[3D Model](https://github.com/sparkfun/3D_Models/tree/master/products/9716)**
 * **[USB to Serial UART Boards Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-usb-to-serial-uart-boards-hookup-guide)**
 * **[How to Install FTDI Drivers](https://learn.sparkfun.com/tutorials/how-to-install-ftdi-drivers)**
 
